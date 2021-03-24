@@ -4,7 +4,8 @@ sections:
   - section_id: hero
     type: section_hero
     title: 안녕하세요.
-    subtitle: '### This is a super-cool hero subhead.'
+    subtitle: |
+      ### Stackbit 테스트 중입니다.
     image: images/avatar.png
     image_alt: Author avatar
   - title: Text
